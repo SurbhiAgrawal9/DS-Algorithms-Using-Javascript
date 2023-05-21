@@ -4,7 +4,7 @@
 // o(n^2) quadratic time complexity
 // with for of loop
 
-```js
+
 function getSumPair(array){
 
   for(let number of array){
@@ -20,11 +20,11 @@ function getSumPair(array){
 
 let result = getSumPair([-5,-4,-3,-2,0,1,2,4,,6,8]);
 console.log(result)
-```
+
 
 
 //with normal for loop 
-```js
+
 function getSumPair(array) {
   for (let i = 0; i < array.length - 1; i++) {
     for (let j = 1; j < array.length; j++) {
@@ -36,4 +36,4 @@ function getSumPair(array) {
 }
 let result = getSumPair([-5, -4, -3, -2, 0, 1, 2, 4, 8, 6]);
 console.log(result);
-```
+
