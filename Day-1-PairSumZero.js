@@ -1,6 +1,6 @@
 // checking pair which sum is zero
 //[p1,p2] ===0
-with for of loop
+// with for of loop
 
 `js
 function getSumPair(array){
