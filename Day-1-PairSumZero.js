@@ -2,7 +2,7 @@
 //[p1,p2] ===0
 // with for of loop
 
-`js
+```js
 function getSumPair(array){
 
   for(let number of array){
@@ -18,7 +18,7 @@ function getSumPair(array){
 
 let result = getSumPair([-5,-4,-3,-2,0,1,2,4,,6,8]);
 console.log(result)
-`
+```
 
 
 //with normal for loop 
