@@ -1,5 +1,5 @@
 // find the value which sum is zero
-
+// o(n) linear time complexity
 let count = [-5,3,-6,4,0,-2,8,0,6]
 let  arr = count.sort((a,b) => a-b)
 // console.log(Arr)
