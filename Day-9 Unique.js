@@ -1,3 +1,5 @@
+In this example, we will be using the set() method to remove duplicates from the array.
+
 let Arr = [
   "DS", "Algo", "OS", "HTML", "DS",
   "OS", "Java", "HTML", "Algo"
